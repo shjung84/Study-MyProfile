@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  MyProfile
+//  Study-MyProfile
 //
-//  Created by SH.Jung on 2021/03/16.
+//  Created by SH.Jung on 2022/01/16.
 //
 
 import UIKit
@@ -14,6 +14,4 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
 }
-
